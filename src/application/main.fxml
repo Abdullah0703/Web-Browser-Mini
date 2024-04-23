@@ -29,7 +29,7 @@
 			onAction="#back" text="back" />
 		<Button layoutX="236.0" layoutY="46.0" mnemonicParsing="false"
 			onAction="#forward" text="forward" />
-		<!-- <Button layoutX="293.0" layoutY="46.0" mnemonicParsing="false" onAction="#executeJS" 
-			text="execute JS" /> -->
+		<Button layoutX="293.0" layoutY="46.0" mnemonicParsing="false" onAction="#executeJS" 
+			text="execute JS" /> 
 	</children>
 </AnchorPane>
