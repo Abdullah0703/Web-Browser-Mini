@@ -40,10 +40,6 @@ The project consists of two Java files:
 
 The project relies on JavaFX for the user interface and web browsing functionalities. It is implemented using Java programming language and requires a compatible Java Development Kit (JDK) to compile and run.
 
-## Contributors
-
-- [Your Name/Username]
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
